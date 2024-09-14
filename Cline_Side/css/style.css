@@ -145,6 +145,7 @@ header.shadow .logo{
     color: var(--bg-color);
     padding: 4px 10px;
     border-radius: 4px;
+    transition: 0.9s;
 }
 
 /* จัดการให้กลายเป็น 3 Column แนวตั้ง */
